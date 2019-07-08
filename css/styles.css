@@ -1,0 +1,28 @@
+/*!
+ * CSS for the changes styling the catering site (https://hillarydalie.github.com/css.git)
+ * Copyright 2011-2019 Hillarydalie
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+ .custom_menu1 {
+    float: left;
+    font-size: medium;
+    padding: 4px;
+}
+
+.custom_menu2 {
+    float: left;
+    font-size: medium;
+    padding: 4px;
+}
+
+.custom_menu3 {
+    float: left;
+    font-size: medium;
+    padding: 4px;
+}
+.custom_menu4 {
+    float: left;
+    font-size: medium;
+    padding: 4px;
+}
